@@ -12,6 +12,14 @@ steps:
 - name: Checkout code
 uses: actions/checkout@v4
 
+ Check failure on line 14 in .github/workflows/build-apk.yml
+
+
+GitHub Actions
+/ .github/workflows/build-apk.yml
+Invalid workflow file
+
+You have an error in your yaml syntax on line 14
 - name: Setup Node.js
 uses: actions/setup-node@v4
 with:
